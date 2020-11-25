@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Header]([/assets/images/tux.png](https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/ProfileHeader.png)
-
+![Header](https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/ProfileHeader.png)
 
 <!--
 **SoftwareDevPro/SoftwareDevPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
