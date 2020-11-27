@@ -23,6 +23,17 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 
 <br/>
 
+## 📕 Core Competencies
+
+- Software Design & Development
+- Software Development Life Cycle (SDLC)
+- Software Analysis & Testing
+- Report Generation & Development
+- Staff Training & Guidance
+- Software Troubleshooting
+
+<br/>
+
 ## 🔧 Technologies & Tools
 
 <!-- badges built from https://shields.io/ -->
@@ -55,6 +66,7 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 <br/>
 
 ### 📫 Where to find me
+
 - [LinkedIn](https://www.linkedin.com/in/chrisadamson) 👨💼
 - [Twitter](https://twitter.com/SoftwareProDev) 🐤
 - [Facebook](https://www.facebook.com/eisel98) 😏
@@ -79,3 +91,16 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 <a href="https://github.com/SoftwareDevPro/SoftwareDevPro">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftwareDevPro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+### 🎓 Education
+
+**Nanodegrees in Self-Driving Car Engineering, Data Foundations, and Deep Learning Foundations**<br/>
+Udacity, Mountain View, CA
+
+**Master of Science in Information Systems**<br/>
+University of Phoenix | Tacoma, WA
+
+**Bachelor of Science in Computer Information Systems**<br/>
+Eastern Washington University, Cheney, WA
+
+
