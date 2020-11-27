@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello, everyone! 😄
+
+My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, living in Washington State and currently working at Boeing. You can find me on [LinkedIn](https://www.linkedin.com/in/chrisadamson),  or on [Twitter](https://twitter.com/SoftwareProDev). I am a technically proficient software engineer adept at collaborating, training, and guiding teams of engineers through the development process of diverse telecommunication, space and defense, training simulations, and higher education software projects. Background producing quality software deliverables on-time while driving business objectives and meeting all necessary requirements. History of quickly adopting, utilizing, and tutoring staff on modern technologies.
+
+<br/>
+
 ## 🔧 Technologies & Tools
 
+<!-- badges built from https://shields.io/ -->
 <!-- logos retrieved from https://simpleicons.org -->
 
 ![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -44,3 +51,31 @@ Here are some ideas to get you started:
 ![Tools](https://img.shields.io/badge/Tools-Apache%20OpenOffice-informational?style=flat&logo=Apache%20OpenOffice&logoColor=white&color=2bbc8a)
 ![Tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![Tools](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
+<br/>
+
+### 📫 Where to find me
+- [LinkedIn](https://www.linkedin.com/in/chrisadamson) 👨💼
+- [Twitter](https://twitter.com/SoftwareProDev) 🐤
+- [Facebook](https://www.facebook.com/eisel98) 😏
+- [Blog](http://softwareprodev.blogspot.com/) 🤓💻
+  
+<!-- 
+- [Instagram](https://instagram.com/zzz) 😎
+- [Website](https://zzz.com) 😏🔗
+- [Additional places to find me](https://zzz.com/links) 🔗🔗
+- [Sign up for my newsletter](https://zzz.substack.com) 💌
+- [New Blog: Coming Soon](https://zzz.netlify.app) 🔨✒
+- [TechWit Ke: Also Coming Soon](https://zzz.netlify.app) 🔨✒
+-->
+
+<br/>
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/SoftwareDevPro/SoftwareDevPro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareDevPro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SoftwareDevPro/SoftwareDevPro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftwareDevPro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
