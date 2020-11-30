@@ -119,10 +119,10 @@ Executed the design, development, and troubleshooting of application and system 
 
 Various External Clients included:
 
-<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/amex_logo.jpg" alt="American Express" height="100" width="200"/>
-<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/qwest_logo.jpg" alt="Qwest" height="100" width="200"/>
-<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/sears_logo.jpg" alt="Sears" height="100" width="200"/>
-<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/voom_logo.png" alt="Voom" height="100" width="200"/>
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/amex_logo.jpg" alt="American Express" height="50" width="100"/>
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/qwest_logo.jpg" alt="Qwest" height="50" width="100"/>
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/sears_logo.jpg" alt="Sears" height="50" width="100"/>
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/voom_logo.png" alt="Voom" height="50" width="100"/>
 
 ### 🎓 Education
 
