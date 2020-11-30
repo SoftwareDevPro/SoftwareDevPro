@@ -92,6 +92,38 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftwareDevPro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<br/> 
+
+
+### 💼 Where i am currently working at/as
+
+- Currently working Boeing IRAD projects.
+
+### 💻 What i am done working on 
+
+[P8A/P8I Poseidon at Boeing]()
+
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/radar_projects/p8aposeidon.jpg" alt="P8" height="200" width="300"/>
+
+The Boeing P-8 Poseidon is a military aircraft developed and produced by Boeing Defense, Space & Security (BDSS).  The P-8 operates in the anti-submarine warfare (ASW), and anti-surface warfare (ASUW). It is armed with torpedoes, Harpoon anti-ship missiles, and other weapons, can drop and monitor sonobuoys.  ***Worked to develop the Radar Subsystem, Infrastructure Components (Mission and Training Manager), metrics scripting, and build scripting.  Developed requirements, participated in the architecture, performed the analysis & design, code/unit test, and integration.***  
+
+[MSA at Boeing]()
+
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/radar_projects/msa_aircraft.jpg" alt="MSA" height="200" width="300"/>
+
+Boeing developed the Maritime Surveillance Aircraft (MSA). The MSA applies advanced, proven and fielded intelligence, surveillance and reconnaissance capabilities from the Boeing P-8, and other platforms to solve customers’ maritime domain awareness challenges.  ***Worked to develop the Radar Subsystem, also particpated in the flight test program.  Developed the requirements, participated in the architecture, performed the analysis & design, code/unit test, integration, and flight test.***
+
+[Programmer / Analyst at West Business Services](https://www.west.com/)
+
+Executed the design, development, and troubleshooting of application and system level software programs.  Performed low and high level programming for campaign applications. Coordinated testing of campaign applications between Account Services, CMS and CIS. Participated in campaign set up meetings.  Developed and designed prototypes and models.
+
+Various External Clients included:
+
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/amex_logo.jpg" alt="American Express" height="100" width="200"/>
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/qwest_logo.jpg" alt="Qwest" height="100" width="200"/>
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/sears_logo.jpg" alt="Sears" height="100" width="200"/>
+<img src="https://raw.githubusercontent.com/SoftwareDevPro/SoftwareDevPro/main/westclients/voom_logo.png" alt="Voom" height="100" width="200"/>
+
 ### 🎓 Education
 
 **Nanodegrees in Self-Driving Car Engineering, Data Foundations, and Deep Learning Foundations**<br/>
