@@ -109,7 +109,7 @@ https://github.com/soroushchehresa/github-readme-linkedin
 
 - Currently working Boeing IRAD projects.
 
-### 💻 What i am done working on 
+### 💻 Things I have worked on:
 
 <strong> [P8A/P8I Poseidon at Boeing]() </strong>
 
