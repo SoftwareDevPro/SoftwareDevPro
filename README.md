@@ -83,8 +83,7 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 
 <br/>
 
-## &#x1f4c8; GitHub Stats
-
+## &#x1f4c8; Stats
 <a href="https://github.com/SoftwareDevPro/SoftwareDevPro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareDevPro&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -92,8 +91,19 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoftwareDevPro&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<!-- 
+https://github.com/omidnikrah/github-readme-stackoverflow
+
+[![Chris Adamson StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7090638&theme=dark)](https://stackoverflow.com/users/7090638/chris-adamson)
+-->
+
 <br/> 
 
+<!--
+https://github.com/soroushchehresa/github-readme-linkedin
+
+<img src="https://github-readme-linkedin.vercel.app/skills?username=christopheradamson253@gmail.com" />
+-->
 
 ### 💼 Where i am currently working at/as
 
@@ -133,3 +143,4 @@ University of Phoenix | Tacoma, WA
 Eastern Washington University, Cheney, WA
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=softwaredevpro.visitor-badge)
