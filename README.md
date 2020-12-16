@@ -71,6 +71,8 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 - [Twitter](https://twitter.com/SoftwareProDev) 🐤
 - [Facebook](https://www.facebook.com/eisel98) 😏
 - [Blog](http://softwareprodev.blogspot.com/) 🤓💻
+- [Email](mailto:christopheradamson253@gmail.com) ✉
+- [Resume](https://drive.google.com/file/d/1w6S6TTD9Vk1WecDk9xds43mnGPnOb6BW/view?usp=sharing) 📃
   
 <!-- 
 - [Instagram](https://instagram.com/zzz) 😎
