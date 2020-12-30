@@ -65,6 +65,11 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 
 <br/>
 
+# My Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 ### 📫 Where to find me
 
 - [LinkedIn](https://www.linkedin.com/in/chrisadamson) 👨💼
