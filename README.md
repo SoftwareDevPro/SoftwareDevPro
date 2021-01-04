@@ -48,6 +48,7 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 ![Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![Code](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![Code](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C%2b%2b&logoColor=white&color=2bbc8a)
