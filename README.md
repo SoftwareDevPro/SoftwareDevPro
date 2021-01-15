@@ -81,7 +81,8 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 
 ## This week I spent my time on:
 
-<img src="https://github.com/SoftwareDevPro/SoftwareDevPro/blob/master/images/codeStats.svg" alt="coding stats"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📫 Where to find me
 
