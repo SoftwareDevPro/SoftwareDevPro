@@ -73,7 +73,7 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 <!-- https://github.com/marketplace/actions/todoist-readme -->
 
 <!-- TODO-IST:START -->
-🏆  3,033 Karma Points           
+🏆  3,057 Karma Points           
 🌸  Completed 3 tasks today           
 ✅  Completed 156 tasks so far           
 ⏳  Longest streak is 2 days
