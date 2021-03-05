@@ -83,7 +83,8 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 49 mins   █████████████████████████   100.00 % 
+JavaScript   9 mins          █████████████▓░░░░░░░░░░░   55.00 % 
+Other        7 mins          ███████████▒░░░░░░░░░░░░░   45.00 % 
 ```
 <!--END_SECTION:waka-->
 
