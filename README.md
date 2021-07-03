@@ -83,9 +83,9 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 
 <!--START_SECTION:waka-->
 ```text
-Go         30 mins         ███████████████░░░░░░░░░░   59.58 % 
-Markdown   19 mins         █████████▓░░░░░░░░░░░░░░░   38.17 % 
-HTML       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript   21 mins         ███████████▓░░░░░░░░░░░░░   46.71 % 
+Markdown     15 mins         ████████▓░░░░░░░░░░░░░░░░   34.94 % 
+JSON         8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.36 % 
 ```
 <!--END_SECTION:waka-->
 
