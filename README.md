@@ -99,7 +99,7 @@ JavaScript   1 min           ███████░░░░░░░░░░
 
 <br/>
 
-<a href="https://app.daily.dev/SoftwareDevPro"><img src="https://github.com/SoftwareDevPro/SoftwareDevPro/blob/master/devcard.svg" width="400" alt="Christopher Adamson's Dev Card"/></a>
+<a href="https://app.daily.dev/SoftwareDevPro"><img src="https://github.com/SoftwareDevPro/SoftwareDevPro/blob/main/devcard.svg" width="400" alt="Christopher Adamson's Dev Card"/></a>
 
 <br/>
 
