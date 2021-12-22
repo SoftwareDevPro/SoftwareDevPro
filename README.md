@@ -99,6 +99,10 @@ JavaScript   1 min           ███████░░░░░░░░░░
 
 <br/>
 
+<a href="https://app.daily.dev/SoftwareDevPro"><img src="https://api.daily.dev/devcards/a4fd068da1ea4c928336d3b3b182a303.png?r=z0s" width="400" alt="Christopher Adamson's Dev Card"/></a>
+
+<br/>
+
 ### If you like what I do, maybe consider buying me a coffee/tea ☕
 
 <a href="https://www.buymeacoffee.com/softwaredevpro" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
