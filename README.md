@@ -84,12 +84,12 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 2 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.74 %
-YAML                       1 hr 48 mins    ████████░░░░░░░░░░░░░░░░░   31.85 %
-Bash                       39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown                   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-Batchfile                  11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Nginx configuration file   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+TypeScript                 3 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.64 %
+YAML                       3 hrs 15 mins   ████████▒░░░░░░░░░░░░░░░░   33.16 %
+Batchfile                  1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+Bash                       55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Markdown                   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+Nginx configuration file   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
