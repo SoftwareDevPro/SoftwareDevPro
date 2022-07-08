@@ -74,15 +74,25 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 <!-- https://github.com/marketplace/actions/todoist-readme -->
 
 <!-- TODO-IST:START -->
-🏆  2,008 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 84 tasks so far           
+🏆  4,316 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 245 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
 ## This week I spent my time on:
 
 <!--START_SECTION:waka-->
+
+```text
+Text         1 hr 51 mins    ███████████████████░░░░░░   75.82 %
+Bash         14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
+Git Config   14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 📫 Where to find me
@@ -93,6 +103,10 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 - [Blog](http://softwareprodev.blogspot.com/) 🤓💻
 - [Email](mailto:christopheradamson253@gmail.com) ✉
 - [Resume](https://drive.google.com/file/d/1w6S6TTD9Vk1WecDk9xds43mnGPnOb6BW/view?usp=sharing) 📃
+
+<br/>
+
+<a href="https://app.daily.dev/SoftwareDevPro"><img src="https://github.com/SoftwareDevPro/SoftwareDevPro/blob/main/devcard.svg" width="400" alt="Christopher Adamson's Dev Card"/></a>
 
 <br/>
 
