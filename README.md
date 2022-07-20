@@ -85,9 +85,9 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 <!--START_SECTION:waka-->
 
 ```text
-YAML        1 hr 22 mins    ███████████▒░░░░░░░░░░░░░   45.78 %
-Terraform   1 hr            ████████▒░░░░░░░░░░░░░░░░   33.74 %
-Markdown    36 mins         █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+YAML        1 hr 26 mins    ███████████░░░░░░░░░░░░░░   44.10 %
+Terraform   1 hr            ███████▓░░░░░░░░░░░░░░░░░   31.05 %
+Markdown    48 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
 ```
 
 <!--END_SECTION:waka-->
