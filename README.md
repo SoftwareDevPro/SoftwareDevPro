@@ -75,8 +75,8 @@ My name is Christopher Adamson and I'm a software engineer. I'm from Tacoma, liv
 
 <!-- TODO-IST:START -->
 🏆  6,179 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 393 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 394 tasks so far           
 ⏳  Longest streak is 2 days
 <!-- TODO-IST:END -->
 
